@@ -1,2 +1,3 @@
-# Simple-Music-Bot-
-A Simple-Music bot by me
+# A simple discord music bot
+- Soon
+- Soon  
