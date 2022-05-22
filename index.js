@@ -1,1 +1,10 @@
-
+const Discord = require("discord.js");
+const client = new Discord.Client();
+const config = require("./config.json");
+const fs = require("fs");
+const ytdl = require("ytdl-core");
+const ytpl = require("ytpl");
+const opus = require("opusscript");
+const ffmpeg = require("ffmpeg");
+const ytsearch = require("yt-search");
+const yt = require("ytdl-core");
